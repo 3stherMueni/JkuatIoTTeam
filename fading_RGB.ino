@@ -41,6 +41,6 @@ if(red>=255 || red<=0){
   if(blue>=255 || blue<=0){
     blueDir*=-1;
 }
-delay(33);
+delay(40);
 
 }
